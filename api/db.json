@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Super Awesome Stream",
+      "description": "This is a super awesome stream! You won't belive it!!!",
+      "id": 1
+    },
+    {
+      "title": "Stream II: The Return",
+      "description": "The super awesome stream returns!!!!!!!!!!",
+      "id": 2
+    }
+  ]
 }
