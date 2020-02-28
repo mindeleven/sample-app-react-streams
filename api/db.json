@@ -32,6 +32,12 @@
       "description": "that's some new stream",
       "userId": "116213854584605915760",
       "id": 6
+    },
+    {
+      "title": "Stream creation with programmatic navigation",
+      "description": "Should be redirected after stream creation...................................",
+      "userId": "116213854584605915760",
+      "id": 7
     }
   ]
 }
