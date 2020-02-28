@@ -26,6 +26,12 @@
       "description": "This is my stream and the userId is proof of it.",
       "userId": "116213854584605915760",
       "id": 5
+    },
+    {
+      "title": "some new stream",
+      "description": "that's some new stream",
+      "userId": "116213854584605915760",
+      "id": 6
     }
   ]
 }
