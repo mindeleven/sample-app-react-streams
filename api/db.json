@@ -6,12 +6,6 @@
       "id": 1
     },
     {
-      "title": "Stream II: The Return",
-      "description": "The super awesome stream returns!!!!!!!!!!",
-      "userId": "116213854584605915760",
-      "id": 2
-    },
-    {
       "title": "Nile Waves",
       "description": "Floody stream",
       "id": 3
@@ -20,12 +14,6 @@
       "title": "Nile Waves II",
       "description": "Another floody stream",
       "id": 4
-    },
-    {
-      "title": "Let's create a stream with an userId",
-      "description": "This is my stream and the userId is proof of it.",
-      "userId": "116213854584605915760",
-      "id": 5
     },
     {
       "title": "some new stream",
